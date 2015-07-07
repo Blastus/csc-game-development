@@ -1,0 +1,23 @@
+Version 7
+=========
+The video format was revised to add support for
+playing sounds while the video is being viewed.
+The extention of the new video files is "gvb"
+(standing for "Game Video [format version] B").
+All needed changes to the game and video player
+were made, and backwards-compatibility remained
+in place for playing back videos with the "gva"
+extention. A video editor was written to divide
+the scenes from a video file into separate files
+and to also merge separate video files into a
+single file. The new video editor does not have
+dependencies on any previously written code.
+A dynamic key binding system was added to the
+game, and the settings can be found in "bind.ini"
+(a file in the "source" directory). The file has
+been self-documented. "Winner.gvb" is a game
+video that shows that all game boards can be
+solved. In the "themes" directory, a program
+called "Sound Test.py" can be run; it will play
+all sounds from the themes and report back how
+many sound files are found.

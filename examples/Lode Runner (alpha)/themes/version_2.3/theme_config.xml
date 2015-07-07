@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Theme background_fill="white" background_type="color" title_color="black">
+    <Sound name="kill" data_type="pif">0.0 523 50 0.0 587 50 0.0 659 50 0.0 587 50 0.0 523 50</Sound>
+    <Sound name="lose" data_type="pif">0.1 440 750 0.1 440 750 0.1 440 375 0.1 440 750 0.1 524 750 0.1 494 375 0.1 494 750 0.1 440 375 0.1 440 750 0.1 415 325 0.1 440 1000</Sound>
+    <Sound name="move_high" data_type="pif">0.0 1047 20</Sound>
+    <Sound name="move_low" data_type="pif">0.0 523 20</Sound>
+    <Sound name="score" data_type="pif">0.0 494 10 0.0 440 10 0.0 494 10</Sound>
+    <Sound name="win" data_type="pif">0.5 523 250 0.05 587 250 0.05 659 250 0.05 523 250 0.05 698 250 0.05 659 250 0.05 587 500 0.05 494 250 0.05 523 250 0.05 587 250 0.05 494 250 0.05 659 250 0.05 587 250 0.05 523 500 0.05 659 250 0.05 698 250 0.05 784 250 0.05 659 250 0.05 880 250 0.05 784 250 0.05 698 500 0.05 659 250 0.05 587 250 0.05 523 250 0.05 659 250 0.05 659 250 0.05 587 250 0.05 523 750</Sound>
+    <Sound name="zip" data_type="pif">0.0 988 100 0.0 1109 100 0.0 880 100 0.0 440 100 0.0 659 100</Sound>
+</Theme>

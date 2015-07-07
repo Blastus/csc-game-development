@@ -1,0 +1,11 @@
+Welcome to the game of Reaction -- easy to play, but hard to master!
+
+You can start the game right away (with 4 players), or you can select from 2 to 19 players for play.
+
+You can only play on white spaces and pieces of your own color.
+
+If a piece explodes, it captures the pieces around it and can possibly cause them to explodes as well.
+
+The objective of Reaction is to eliminate all other players by capturing their pieces.
+
+If no one has won, "dead" players might still be able to get back into the actions.
