@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Theme background_fill="white" background_type="color" title_color="black">
+    <Sound name="kill" data_type="wav">oo-oo-ah-ah-big</Sound>
+    <Sound name="lose" data_type="wav">scream</Sound>
+    <Sound name="score" data_type="wav">oo-oo-ah-ah-small</Sound>
+    <Sound name="win" data_type="wav">i-win</Sound>
+    <Sound name="zip" data_type="wav">ah-ha</Sound>
+</Theme>

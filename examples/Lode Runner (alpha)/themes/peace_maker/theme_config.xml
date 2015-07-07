@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Theme background_fill="white" background_type="color" title_color="black">
+    <Sound name="kill" data_type="wav">robot-destroyed</Sound>
+    <Sound name="lose" data_type="wav">ww-iii</Sound>
+    <Sound name="score" data_type="wav">nuke-acquired</Sound>
+    <Sound name="win" data_type="wav">level-cleared</Sound>
+    <Sound name="zip" data_type="wav">swoosh</Sound>
+</Theme>
